@@ -1,4 +1,4 @@
-## My first Mini Project with Bootstrap 4 html and css
+## My first mini Project with Bootstrap 4 html and css
 
 ## Name of the project Rosie Odenkirk
 --------
